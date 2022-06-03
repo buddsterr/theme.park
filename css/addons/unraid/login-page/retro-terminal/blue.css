@@ -6,7 +6,7 @@
 
 @import url("https://buddsterr.com/theme.park/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css");
 :root {
---main-bg-color:black;
+--main-bg-color: url("https://buddsterr.com/theme.park/css/addons/unraid/login-page/fallout/wallpaper/terminal.jpg") center center/cover no-repeat fixed;
 --body-before:#70d7f61a;
 --body-after: #70d7f633;
 --body-animation: none;
