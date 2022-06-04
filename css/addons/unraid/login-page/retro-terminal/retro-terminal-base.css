@@ -253,7 +253,7 @@ h1 {
     text-transform: uppercase;
     min-width: 300px;
     border-radius: 0px !important;
-    border: 3px dashed var(--text-color);
+    border: 3px solid var(--text-color);
 }
 #login .angle::after {
     display:none;
